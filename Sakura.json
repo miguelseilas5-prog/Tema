@@ -1,0 +1,57 @@
+
+{
+  "name": "Sakura Neko",
+  "description": "A soft pastel theme inspired by pink and lavender anime aesthetics.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "."
+    }
+  ],
+  "spec": 2,
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#FFF1F7", "#60465D"],
+    "HEADER_SECONDARY": ["#DABFD5", "#80677F"],
+    "TEXT_NORMAL": ["#F8EAF2", "#604D60"],
+    "TEXT_MUTED": ["#C4A9BE", "#A18B9D"],
+    "TEXT_LINK": ["#F1A9D0", "#C16DAB"],
+    "INTERACTIVE_NORMAL": ["#D8B7D4", "#94728F"],
+    "INTERACTIVE_HOVER": ["#F2C3DE", "#C17EAD"],
+    "INTERACTIVE_ACTIVE": ["#FFE1F0", "#A45F91"],
+    "INTERACTIVE_MUTED": ["#806F80", "#C7B6C4"],
+    "BACKGROUND_PRIMARY": ["#302632", "#FFF4F9"],
+    "BACKGROUND_SECONDARY": ["#392D3A", "#F9E8F1"],
+    "BACKGROUND_SECONDARY_ALT": ["#463447", "#F2DCE9"],
+    "BACKGROUND_TERTIARY": ["#251E2B", "#EED6E7"],
+    "BACKGROUND_ACCENT": ["#A879A0", "#DDA7CB"],
+    "BACKGROUND_FLOATING": ["#392C3C", "#FFF0F7"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#302632", "#FFF4F9"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#392D3A", "#F9E8F1"],
+    "BACKGROUND_MODIFIER_HOVER": ["#F0C5DF18", "#C47CA522"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#E7B5D82B", "#C47CA538"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#DDA7CB35", "#C47CA545"],
+    "BACKGROUND_MODIFIER_ACCENT": ["#EAB9D82A", "#C47CA530"],
+    "CHANNELTEXTAREA_BACKGROUND": ["#493747", "#F1DCE9"],
+    "CHAT_BACKGROUND": ["#302632", "#FFF4F9"]
+  },
+  "rawColors": {
+    "PINK": "#F5C9DE",
+    "PINK_DARK": "#D99CBD",
+    "LAVENDER": "#CDA8D1",
+    "PURPLE": "#A889B5",
+    "MAUVE": "#746078",
+    "WHITE": "#FFF1F7"
+  },
+  "fonts": {},
+  "plus": {
+    "version": 0,
+    "backgroundImageUrl": "https://i.pinimg.com/736x/0d/3e/6b/0d3e6b3c9b855fa956576ac588c223ae.jpg",
+    "backgroundAlpha": 0.25,
+    "blur": 0.3
+  },
+  "background": {
+    "url": "https://i.pinimg.com/736x/0d/3e/6b/0d3e6b3c9b855fa956576ac588c223ae.jpg",
+    "alpha": 0.25,
+    "blur": 0.3
+  }
+}
